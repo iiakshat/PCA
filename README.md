@@ -66,8 +66,11 @@ This notebook uses PCA as a dimensionality reduction technique on the MNIST data
 Make sure you have the following libraries installed:
 
 `numpy`
+
 `pandas`
+
 `matplotlib`
+
 `scikit-learn`
 
 ### Usage
