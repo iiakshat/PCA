@@ -1,5 +1,7 @@
 # PCA
 
+![](https://www.machinelearningplus.com/wp-content/uploads/2019/11/rotating_PCAs.gif)
+
 This repository contains a project on Principal Component Analysis (PCA) that consists of two Jupyter notebooks:
 
 # What is PCA?
