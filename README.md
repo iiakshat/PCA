@@ -4,9 +4,9 @@
 
 This repository contains a project on Principal Component Analysis (PCA) that consists of two Jupyter notebooks:
 
-`Implementation.ipynb` contains implementation of PCA from scratch.
+- `Implementation.ipynb` contains implementation of PCA from scratch.
 
-`MNIST.ipynb` contains implementation of PCA using `scikit-learn` on Mnist Dataset.
+- `MNIST.ipynb` contains implementation of PCA using `scikit-learn` on Mnist Dataset.
 
 # What is PCA?
 
